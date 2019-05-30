@@ -20,7 +20,7 @@ const StyledSurpriseSpeaker = styled.h4`
 
 const SurpriseSpeaker = () => (
   <StyledSurpriseSpeaker>
-    Clique aqui e libere o acesso a camera para uma experiência fantástica
+    Clique aqui e libere o acesso a câmera para uma experiência fantástica
   </StyledSurpriseSpeaker>
 );
 
