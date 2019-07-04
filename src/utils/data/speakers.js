@@ -19,6 +19,17 @@ import globals from '../globals';
 export default [
   {
     id: 1,
+    name: 'Gabriel Rubens',
+    theme: 'ECMAScript 2077 (ReasonML)',
+    avatar: 'https://avatars3.githubusercontent.com/u/1283200',
+    worksIn: 'Astrocoders',
+    worksLink: 'https://astrocoders.com',
+    talk: 'https://youtu.be/DIjRZLQ2uZ4',
+    github: 'https://github.com/fakenickels',
+    isYou: false,
+  },
+  {
+    id: 2,
     name: 'Palestrante Surpresa!',
     theme: 'Envie sua talk',
     avatar: you,
