@@ -24,7 +24,7 @@ export default [
     avatar: 'https://avatars3.githubusercontent.com/u/1283200',
     worksIn: 'Astrocoders',
     worksLink: 'https://astrocoders.com',
-    talk: 'https://youtu.be/DIjRZLQ2uZ4',
+    videoId: 'DIjRZLQ2uZ4',
     github: 'https://github.com/fakenickels',
     isYou: false,
   },
