@@ -7,7 +7,7 @@ import Venue from './Venue';
 import Park from './Park';
 import Speakers from './Speakers';
 import Schedule from './Schedule';
-import C4P from './C4P';
+// import C4P from './C4P';
 import Sponsors from './Sponsors';
 // import Supporters from './Supporters';
 // import Promotions from './Promotions';
@@ -40,7 +40,7 @@ const App = () => (
     <Sponsors />
     <BeSponsor />
     <Meetups />
-    <C4P />
+    {/* <C4P /> */}
     <Contact />
   </Container>
 );

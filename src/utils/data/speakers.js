@@ -1,5 +1,4 @@
-import you from '../../media/images/speakers/anonymous.png';
-import globals from '../globals';
+import matheusSilva from '../../media/images/speakers/matheus-silva.jpg';
 
 /**
  * Retorna um array com os palestrantes, exemplo:
@@ -30,13 +29,24 @@ export default [
   },
   {
     id: 2,
-    name: 'Palestrante Surpresa!',
-    theme: 'Envie sua talk',
-    avatar: you,
-    worksIn: 'React Brasil',
-    worksLink: globals.contacts.github,
-    talk: globals.contacts.c4p,
-    github: globals.contacts.github,
-    isYou: true,
+    name: 'Matheus Silva',
+    theme: 'Webpack and the state of bundlers',
+    avatar: matheusSilva,
+    worksIn: 'Daitan Group',
+    worksLink: 'https://www.daitan.com/',
+    videoId: '-Z4jDSUVSTU',
+    github: 'https://github.com/fakenickels',
+    isYou: false,
   },
+  // {
+  //   id: 99,
+  //   name: 'Palestrante Surpresa!',
+  //   theme: 'Envie sua talk',
+  //   avatar: you,
+  //   worksIn: 'React Brasil',
+  //   worksLink: globals.contacts.github,
+  //   talk: globals.contacts.c4p,
+  //   github: globals.contacts.github,
+  //   isYou: true,
+  // },
 ];
