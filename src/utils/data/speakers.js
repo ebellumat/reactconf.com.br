@@ -35,7 +35,7 @@ export default [
     worksIn: 'Daitan Group',
     worksLink: 'https://www.daitan.com/',
     videoId: '-Z4jDSUVSTU',
-    github: 'https://github.com/fakenickels',
+    github: 'https://github.com/PlayMa256',
     isYou: false,
   },
   // {
