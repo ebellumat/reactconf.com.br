@@ -32,7 +32,7 @@ export default [
   {
     id: 7,
     name: ' Meetup Florianópolis/SC',
-    link: 'http://www.meetup.com/ReactJS-Floripa/',
+    link: 'https://www.meetup.com/ReactJS-Floripa/',
   },
   {
     id: 8,
@@ -42,6 +42,11 @@ export default [
   {
     id: 9,
     name: 'Meetup São Paulo/SP',
-    link: 'http://www.meetup.com/ReactJS-SP/',
+    link: 'https://www.meetup.com/ReactJS-SP/',
+  },
+  {
+    id: 10,
+    name: 'Meetup Goiânia/GO',
+    link: 'https://www.meetup.com/pt-BR/React-Goiania/',
   },
 ];
