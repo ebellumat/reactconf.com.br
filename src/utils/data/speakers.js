@@ -1,4 +1,5 @@
 import matheusSilva from '../../media/images/speakers/matheus-silva.jpg';
+import prestonSo from '../../media/images/speakers/preston-so.png';
 
 /**
  * Retorna um array com os palestrantes, exemplo:
@@ -36,6 +37,17 @@ export default [
     worksLink: 'https://www.daitan.com/',
     videoId: '-Z4jDSUVSTU',
     github: 'https://github.com/PlayMa256',
+    isYou: false,
+  },
+  {
+    id: 3,
+    name: 'Preston So',
+    theme: 'Gatsby hoje em dia e no futuro',
+    avatar: prestonSo,
+    worksIn: 'Gatsby',
+    worksLink: 'https://www.gatsbyjs.org/',
+    videoId: 'Zu1nrkNEkqc',
+    github: 'https://github.com/prestonso',
     isYou: false,
   },
   // {
