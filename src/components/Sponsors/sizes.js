@@ -1,7 +1,7 @@
 export default {
   padawans: {
     card: `
-      width: calc((100% / 6) - 20px);
+      width: calc((100% / 4) - 20px);
       height: 110px;
 
       @media screen and (max-width: 768px) {
@@ -15,7 +15,7 @@ export default {
   },
   juniors: {
     card: `
-      width: calc((100% / 5) - 20px);
+      width: calc((100% / 3) - 20px);
       height: 150px;
 
       @media screen and (max-width: 768px) {
