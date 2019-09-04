@@ -1,5 +1,7 @@
 import matheusSilva from '../../media/images/speakers/matheus-silva.jpg';
 import prestonSo from '../../media/images/speakers/preston-so.png';
+import larissaFarias from '../../media/images/speakers/larissa-farias.jpg';
+import noOne from '../../media/images/speakers/no-one.jpeg';
 
 /**
  * Retorna um array com os palestrantes, exemplo:
@@ -48,6 +50,53 @@ export default [
     worksLink: 'https://www.gatsbyjs.org/',
     videoId: 'Zu1nrkNEkqc',
     github: 'https://github.com/prestonso',
+    isYou: false,
+  },
+  {
+    id: 4,
+    name: 'Larissa Farias',
+    theme: 'Performance com React',
+    avatar: larissaFarias,
+    worksIn: '',
+    worksLink: '',
+    videoId: 'yXFtzrwzmyU',
+    github: 'https://github.com/larissathasdefar',
+    isYou: false,
+  },
+  {
+    id: 6,
+    name: 'Em breve!',
+    theme: '',
+    avatar: noOne,
+    worksIn: '',
+    worksLink: '',
+    isYou: false,
+  },
+  {
+    id: 7,
+    name: 'Em breve!',
+    theme: '',
+    avatar: noOne,
+    worksIn: '',
+    worksLink: '',
+    isYou: false,
+  },
+  {
+    id: 8,
+    name: 'Em breve!',
+    theme: '',
+    avatar: noOne,
+    worksIn: '',
+    worksLink: '',
+    isYou: false,
+  },
+  {
+    id: 5,
+    name: 'Em breve!',
+    theme: '',
+    avatar: noOne,
+    worksIn: '',
+    worksLink: '',
     isYou: false,
   },
   // {
