@@ -3,6 +3,7 @@ import ingresse from '../../../media/images/sponsors/ingresse.png';
 import globo from '../../../media/images/sponsors/globo.jpg';
 import pipefy from '../../../media/images/sponsors/pipefy.png';
 import livUp from '../../../media/images/sponsors/livup.png';
+import gatsby from '../../../media/images/sponsors/gatsby.png';
 
 export default [
   {
@@ -31,6 +32,12 @@ export default [
   },
   {
     id: 5,
+    name: 'Gatsby',
+    avatar: gatsby,
+    link: 'https://www.gatsbyjs.org/',
+  },
+  {
+    id: 6,
     name: 'Quanto',
     avatar: quanto,
     link: 'http://contaquanto.com.br',
