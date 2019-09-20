@@ -1,6 +1,8 @@
 import matheusSilva from '../../media/images/speakers/matheus-silva.jpg';
 import prestonSo from '../../media/images/speakers/preston-so.png';
 import larissaFarias from '../../media/images/speakers/larissa-farias.jpg';
+import joaoMarins from '../../media/images/speakers/joao-marins.jpeg';
+import andreiCalazans from '../../media/images/speakers/andrei-calazans.jpeg';
 import noOne from '../../media/images/speakers/no-one.jpeg';
 
 /**
@@ -65,20 +67,24 @@ export default [
   },
   {
     id: 6,
-    name: 'Em breve!',
-    theme: '',
-    avatar: noOne,
-    worksIn: '',
-    worksLink: '',
+    name: 'João Marins',
+    theme: 'The Golden Stack',
+    avatar: joaoMarins,
+    worksIn: 'Foton',
+    worksLink: 'https://fotontech.io/',
+    videoId: 'Qgv268knlq0',
+    github: 'https://github.com/jgcmarins',
     isYou: false,
   },
   {
     id: 7,
-    name: 'Em breve!',
-    theme: '',
-    avatar: noOne,
-    worksIn: '',
-    worksLink: '',
+    name: 'Andrei Calazans',
+    theme: 'React Native (Comparação com Flutter)',
+    avatar: andreiCalazans,
+    worksIn: 'G2i inc',
+    worksLink: 'https://www.g2i.co/',
+    videoId: 'lhZgJwVG3yk',
+    github: 'https://github.com/AndreiCalazans',
     isYou: false,
   },
   {
