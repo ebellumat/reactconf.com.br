@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "224490fcd90908d050174deccf39aa60",
+    "revision": "99c864efd1b2ee5997e14b4ed3343292",
     "url": "/index.html"
   },
   {
-    "revision": "0a759242732a91e00a57",
+    "revision": "59d71924aa34b1f886a9",
     "url": "/static/css/2.c2fcad91.chunk.css"
   },
   {
-    "revision": "0a759242732a91e00a57",
-    "url": "/static/js/2.f7012b4a.chunk.js"
+    "revision": "59d71924aa34b1f886a9",
+    "url": "/static/js/2.766eb358.chunk.js"
   },
   {
-    "revision": "61a3f2dca1563cca1241",
-    "url": "/static/js/main.e6256682.chunk.js"
+    "revision": "2e8145374410d82de8c6",
+    "url": "/static/js/main.33eb8c33.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
+  },
+  {
+    "revision": "7cda886770eab476c8126a8f338bf13e",
+    "url": "/static/media/andrei-calazans.7cda8867.jpeg"
   },
   {
     "revision": "fa38ab30a9b8abb4a1ff8c0b7fb86cef",
@@ -30,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d561eb38531e6296928f8747ced69264",
     "url": "/static/media/ingresse.d561eb38.png"
+  },
+  {
+    "revision": "72916cf92ca671c3f466759fe3d26a16",
+    "url": "/static/media/joao-marins.72916cf9.jpeg"
   },
   {
     "revision": "226487bd0342ead0e51ca03587d2c566",
