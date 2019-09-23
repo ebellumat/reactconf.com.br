@@ -4,6 +4,7 @@ import globo from '../../../media/images/sponsors/globo.jpg';
 import pipefy from '../../../media/images/sponsors/pipefy.png';
 import livUp from '../../../media/images/sponsors/livup.png';
 import gatsby from '../../../media/images/sponsors/gatsby.png';
+import vagas from '../../../media/images/sponsors/vagas.png';
 
 export default [
   {
@@ -31,13 +32,19 @@ export default [
     link: 'https://www.pipefy.com/',
   },
   {
-    id: 5,
+    id: 6,
+    name: 'Vagas',
+    avatar: vagas,
+    link: 'https://www.vagas.com.br/',
+  },
+  {
+    id: 7,
     name: 'Gatsby',
     avatar: gatsby,
     link: 'https://www.gatsbyjs.org/',
   },
   {
-    id: 6,
+    id: 8,
     name: 'Quanto',
     avatar: quanto,
     link: 'http://contaquanto.com.br',

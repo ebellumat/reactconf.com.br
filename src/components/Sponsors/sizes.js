@@ -15,7 +15,7 @@ export default {
   },
   juniors: {
     card: `
-      width: calc((100% / 3) - 20px);
+      width: calc((100% / 4) - 20px);
       height: 150px;
 
       @media screen and (max-width: 768px) {
