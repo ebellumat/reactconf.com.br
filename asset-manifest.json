@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/static/js/main.33eb8c33.chunk.js",
-    "main.js.map": "/static/js/main.33eb8c33.chunk.js.map",
+    "main.js": "/static/js/main.a34965a9.chunk.js",
+    "main.js.map": "/static/js/main.a34965a9.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
     "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
     "static/css/2.c2fcad91.chunk.css": "/static/css/2.c2fcad91.chunk.css",
-    "static/js/2.766eb358.chunk.js": "/static/js/2.766eb358.chunk.js",
-    "static/js/2.766eb358.chunk.js.map": "/static/js/2.766eb358.chunk.js.map",
+    "static/js/2.ee6454a4.chunk.js": "/static/js/2.ee6454a4.chunk.js",
+    "static/js/2.ee6454a4.chunk.js.map": "/static/js/2.ee6454a4.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e48e1d86b812147aa019eb5020da1c41.js": "/precache-manifest.e48e1d86b812147aa019eb5020da1c41.js",
+    "precache-manifest.ca40c503375029d31397893251153ca7.js": "/precache-manifest.ca40c503375029d31397893251153ca7.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.c2fcad91.chunk.css.map": "/static/css/2.c2fcad91.chunk.css.map",
     "static/media/andrei-calazans.jpeg": "/static/media/andrei-calazans.7cda8867.jpeg",
@@ -21,6 +21,7 @@
     "static/media/no-one.jpeg": "/static/media/no-one.870ec7c6.jpeg",
     "static/media/preston-so.png": "/static/media/preston-so.e8f43069.png",
     "static/media/theater_apcd.jpg": "/static/media/theater_apcd.19331bfd.jpg",
+    "static/media/vagas.png": "/static/media/vagas.47a0af26.png",
     "static/media/vaporwave.jpg": "/static/media/vaporwave.89cf45f1.jpg"
   }
 }

@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "99c864efd1b2ee5997e14b4ed3343292",
+    "revision": "bc07079e945cff17e0ce008bb4981aa1",
     "url": "/index.html"
   },
   {
-    "revision": "59d71924aa34b1f886a9",
+    "revision": "7a1c58e2716740a87a11",
     "url": "/static/css/2.c2fcad91.chunk.css"
   },
   {
-    "revision": "59d71924aa34b1f886a9",
-    "url": "/static/js/2.766eb358.chunk.js"
+    "revision": "7a1c58e2716740a87a11",
+    "url": "/static/js/2.ee6454a4.chunk.js"
   },
   {
-    "revision": "2e8145374410d82de8c6",
-    "url": "/static/js/main.33eb8c33.chunk.js"
+    "revision": "710253ee45de20ab17de",
+    "url": "/static/js/main.a34965a9.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -58,6 +58,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "19331bfdb82e5cfb273847769224fa36",
     "url": "/static/media/theater_apcd.19331bfd.jpg"
+  },
+  {
+    "revision": "47a0af26bd67ef9ba16932867d7f244d",
+    "url": "/static/media/vagas.47a0af26.png"
   },
   {
     "revision": "89cf45f1c0ed134b783b27ae45956f25",
