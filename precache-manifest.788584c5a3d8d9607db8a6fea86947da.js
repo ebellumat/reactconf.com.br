@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5387dcd3b91ebc192de02396de639d10",
+    "revision": "2dc8b897c7b34664672ed0d79b95908d",
     "url": "/index.html"
   },
   {
-    "revision": "7a1c58e2716740a87a11",
+    "revision": "ec3909bf066dd6dfd27b",
     "url": "/static/css/2.c2fcad91.chunk.css"
   },
   {
-    "revision": "7a1c58e2716740a87a11",
-    "url": "/static/js/2.ee6454a4.chunk.js"
+    "revision": "ec3909bf066dd6dfd27b",
+    "url": "/static/js/2.a9c33062.chunk.js"
   },
   {
-    "revision": "daf111d688d2ef06f100",
-    "url": "/static/js/main.bfba1412.chunk.js"
+    "revision": "0303c3f625ef8d9c509d",
+    "url": "/static/js/main.4db91c32.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "176c7bab4052cfe68f715c0555f4f6ec",
     "url": "/static/media/globo.176c7bab.jpg"
+  },
+  {
+    "revision": "a647cb48c19b2438d3147802cd5159e4",
+    "url": "/static/media/infoqbrasil.a647cb48.png"
   },
   {
     "revision": "d561eb38531e6296928f8747ced69264",
