@@ -4,13 +4,7 @@ import globals from '../utils/globals';
 
 import Text from './Text';
 
-import udacityLogo from '../media/images/sponsors/udacity.png';
-import r7Img from '../media/images/sponsors/r7.png';
-import ebanxLogo from '../media/images/sponsors/ebanxLogo.svg';
-import iClinicImg from '../media/images/sponsors/iclinic.png';
-import getninjasImg from '../media/images/sponsors/getninjas.svg';
-import rungImg from '../media/images/sponsors/rung.jpg';
-import tailImg from '../media/images/sponsors/tailLogo.svg';
+import infoQ from '../media/images/sponsors/infoqbrasil.png';
 
 const styles = {
   container: css({
@@ -66,45 +60,9 @@ const styles = {
 const Supporters = [
   {
     id: 13,
-    name: 'UDACITY',
-    avatar: udacityLogo,
-    link: 'https://br.udacity.com/',
-  },
-  {
-    id: 14,
-    name: 'R7.com',
-    avatar: r7Img,
-    link: 'https://r7.com/',
-  },
-  {
-    id: 15,
-    name: 'Ebanx',
-    avatar: ebanxLogo,
-    link: 'https://www.ebanx.com/br/',
-  },
-  {
-    id: 16,
-    name: 'iClinic',
-    avatar: iClinicImg,
-    link: 'https://iclinic.com.br/',
-  },
-  {
-    id: 17,
-    name: 'GetNinjas',
-    avatar: getninjasImg,
-    link: 'https://www.getninjas.com.br/',
-  },
-  {
-    id: 18,
-    name: 'Tail',
-    avatar: tailImg,
-    link: 'https://www.tail.digital/',
-  },
-  {
-    id: 19,
-    name: 'Rung',
-    avatar: rungImg,
-    link: 'https://www.rung.com.br/',
+    name: 'InfoQ',
+    avatar: infoQ,
+    link: 'https://www.infoq.com/',
   },
 ];
 

@@ -9,7 +9,7 @@ import Speakers from './Speakers';
 import Schedule from './Schedule';
 // import C4P from './C4P';
 import Sponsors from './Sponsors';
-// import Supporters from './Supporters';
+import Supporters from './Supporters';
 // import Promotions from './Promotions';
 import BuyTickets from './BuyTickets';
 import Contact from './Contact';
@@ -34,10 +34,10 @@ const App = () => (
     <Schedule />
     <Park />
     <BuyTickets />
-    {/* <Supporters />
-    <Promotions />
+    {/* <Promotions />
     <AfterParty /> */}
     <Sponsors />
+    <Supporters />
     <BeSponsor />
     <Meetups />
     {/* <C4P /> */}
