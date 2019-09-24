@@ -5,12 +5,13 @@ import globals from '../../utils/globals';
 
 const StyledContainer = styled.div`
   background: ${globals.colors.white};
-  width: 100vw;
+  max-width: 70vw;
   align-items: center;
   padding-top: 20px;
 
   @media (max-width: 720px) {
     align-self: auto;
+    max-width: 100vw;
   }
 `;
 

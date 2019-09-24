@@ -43,7 +43,7 @@ export default {
   },
   seniors: {
     card: `
-      width: calc((100% / 2) - 20px);
+      width: calc((100% / 3) - 20px);
       height: 300px;
     `,
     logo: `
