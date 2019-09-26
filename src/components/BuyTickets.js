@@ -23,8 +23,8 @@ const BuyTickets = () => (
     <Title title={globals.date.full} />
     <SubTitle title={`${globals.date.weekDay}, das ${globals.date.hour}`} />
 
-    <BuyTicket href={globals.buyTicketLink} light medium>
-      Ingressos aqui
+    <BuyTicket href={globals.buyTicketLink} disabled light medium>
+      Ingressos esgotados
     </BuyTicket>
   </Container>
 );

@@ -18,7 +18,9 @@ const TicketHere = styled(Button)`
 `;
 
 const TicketButton = () => (
-  <TicketHere href={globals.buyTicketLink}>Ingressos aqui</TicketHere>
+  <TicketHere href={globals.buyTicketLink} disabled>
+    Ingressos esgotados
+  </TicketHere>
 );
 
 export default TicketButton;
