@@ -51,7 +51,7 @@ export default [
   },
   {
     id: 11,
-    name: 'Meetup Vitória/ES',
+    name: 'Meetup Vila Velha/ES',
     link: 'https://www.meetup.com/pt-BR/React-Meetup-ES/',
   },
 ];
