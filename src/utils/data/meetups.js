@@ -49,4 +49,9 @@ export default [
     name: 'Meetup Goiânia/GO',
     link: 'https://www.meetup.com/pt-BR/React-Goiania/',
   },
+  {
+    id: 11,
+    name: 'Meetup Vitória/ES',
+    link: 'https://www.meetup.com/pt-BR/React-Meetup-ES/',
+  },
 ];
